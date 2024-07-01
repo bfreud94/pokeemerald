@@ -8,3 +8,4 @@ gFlashNumRemainingBytes
 EraseFlashChip
 EraseFlashSector
 gFlashMaxTime
+
